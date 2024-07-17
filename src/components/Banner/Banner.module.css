@@ -1,0 +1,12 @@
+.banner{
+    border: 5px solid #6BD1FF;
+    background: #001233;   
+    box-shadow: 0 40px 40px -20px #2271D1 inset;
+}
+
+.banner img{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .5;
+}

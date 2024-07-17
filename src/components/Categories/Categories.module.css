@@ -1,0 +1,14 @@
+.section{
+    margin: 1em 2em;
+}
+
+.cateTitle{
+    width: 30vw;
+    font-size: 2vw;
+    font-weight: 800;
+    padding: .2em 2em;
+    color: var(--white);
+    border-radius: 15px;
+    text-align: center;
+}
+

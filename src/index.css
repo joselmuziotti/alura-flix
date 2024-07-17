@@ -1,0 +1,25 @@
+:root{
+  --font-prime: 'SourceSansPro', sans-serif;
+  --dark-grey:#262626;
+  --white: #FFFFFF;
+  --black: rgba(0, 0, 0, 0.9);
+  --blue: #2271D1;
+  --front-end: #6BD1FF;
+  --footer: #03122F;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--dark-grey);
+  font-family: var(--font-prime);
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  src: url(../public/font/SourceSansPro-Regular.otf);
+}
